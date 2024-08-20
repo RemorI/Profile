@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://github.com/RemorI/Profile/blob/main/supply/The-vampire-librarian%40Emilycottonbird.jpg" width="35%" align="right" />
 <img src="" width="70%" />
-<br><br>
 <pre>
     <b>Languages:</b> Python, PySpark, SQL
     <b>Databases:</b> MySQL, Apache Cassandra, MongoDB, DynamoDB
@@ -12,7 +11,6 @@
     <b>Visualization:</b> Tableau, Power BI
     <b>Web:</b> HTML, CSS, APIs
 </pre>
-<br><br>
 <img src="https://github.com/RemorI/Profile/blob/main/supply/working-bees.png" height="100" />
 <br><br><br>
     
