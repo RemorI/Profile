@@ -3,7 +3,7 @@
 <img src="" width="70%" />
 <br><br>
 <pre>
-    <b>Lenguages:</b> Python, PySpark, SQL
+    <b>Languages:</b> Python, PySpark, SQL
     <b>Databases:</b> MySQL, Apache Cassandra, MongoDB, DynamoDB
     <b>Framework:</b> Apache Spark, Apache Airflow, Apache Kafka, Zookeeper
     <b>Cloud:</b> Snowflake, S3, Lambda
