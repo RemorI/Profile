@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/RemorI/Profile/blob/main/supply/The-vampire-librarian%40Emilycottonbird.jpg" width="35%" align="right" />
-<img src="" width="70%" />
+<h4>Data Engineer with over 2 years of experience</h4>
 <pre>
     <b>Languages:</b> Python, PySpark, SQL
     <b>Databases:</b> MySQL, Apache Cassandra, MongoDB, DynamoDB
