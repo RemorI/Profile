@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/RemorI/Profile/blob/main/supply/The-vampire-librarian%40Emilycottonbird.jpg" width="35%" align="right" />
+<img src="https://github.com/RemorI/Profile/blob/main/supply/The-vampire-librarian%40Emilycottonbird.jpg" width="30%" align="right" />
 <br><br>
 <pre>
     <b>Languages:</b> Python, PySpark, SQL
