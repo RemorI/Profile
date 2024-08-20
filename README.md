@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://github.com/RemorI/Profile/blob/main/supply/The-vampire-librarian%40Emilycottonbird.jpg" width="25%" align="right" />
-<img src="" width="70%" />
+<b2>Hi, my name is Ignacio Escudero.</b2>
+<b4>Data engineer with over 2 years of experience</b4>
 <br><br>
 <pre>
     <b>Languages:</b> Python, PySpark, SQL
