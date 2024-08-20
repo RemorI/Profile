@@ -11,6 +11,7 @@
     <b>Visualization:</b> Tableau, Power BI
     <b>Web:</b> HTML, CSS, APIs
 </pre>
+<br><br>
 <img src="https://github.com/RemorI/Profile/blob/main/supply/working-bees.png" height="100" />
 <br><br><br>
     
