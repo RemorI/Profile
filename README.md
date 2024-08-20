@@ -3,14 +3,14 @@
 <img src="" width="70%" />
 <br><br>
 <pre>
-    Lenguages: Python, PySpark, SQL
-    Databases: MySQL, Apache Cassandra, MongoDB, DynamoDB
-    Framework: Apache Spark, Apache Airflow, Apache Kafka, Zookeeper
-    Cloud: Snowflake, S3, Lambda
-    CI/CD: Jenkins
-    IaC Tools: Docker, Kubernetes, Terraform
-    Visualization: Tableau, Power BI
-    Web: HTML, CSS, APIs
+    <b>Lenguages:</b> Python, PySpark, SQL
+    <b>Databases:</b> MySQL, Apache Cassandra, MongoDB, DynamoDB
+    <b>Framework:</b> Apache Spark, Apache Airflow, Apache Kafka, Zookeeper
+    <b>Cloud:</b> Snowflake, S3, Lambda
+    <b>CI/CD:</b> Jenkins
+    <b>IaC Tools:</b> Docker, Kubernetes, Terraform
+    <b>Visualization:</b> Tableau, Power BI
+    <b>Web:</b> HTML, CSS, APIs
 </pre>
 <br><br>
 <img src="https://github.com/RemorI/Profile/blob/main/supply/working-bees.png" height="100" />
