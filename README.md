@@ -17,7 +17,5 @@
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/ignacio-escudero-ab440517a/)
-[![](https://img.shields.io/badge/Gmail-D14836)](ignaescuvero@gmail.com)
-
+[![](https://img.shields.io/badge/Gmail-D14836)](mailto:ignaescuvero@gmail.com)
 </div>
--0a66c2
