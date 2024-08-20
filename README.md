@@ -12,7 +12,7 @@
     <b>Web:</b> HTML, CSS, APIs
 </pre>
 <img src="https://github.com/RemorI/Profile/blob/main/supply/working-bees.png" height="100" />
-<br>
+<br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/ignacio-escudero-ab440517a/)
 [![](https://img.shields.io/badge/Gmail-D14836)](mailto:ignaescuvero@gmail.com)
